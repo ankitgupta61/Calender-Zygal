@@ -5,7 +5,7 @@ This is a responsive webApp showing calender for selected month and selected yea
 ## Table of contents
 
 - [Feature](#Feature)
-- [Tech Stack](#Tech Stack)
+- [Tech Stack](#Tech-Stack)
 - [Author](#Author)
 
 
